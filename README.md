@@ -11,7 +11,6 @@ Building fast, reliable mobile and web apps that turn ideas into products people
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farouqnasiru@gmail.com)
 
 </div>
----
 
 ## 🚀 About Me
 
